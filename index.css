@@ -1,3 +1,40 @@
+*{
+    box-sizing: border-box;
+}
 body{
-    background-color: aqua;
+    background-image: url(rocket\ league\ Capa.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: right center;
+    margin: auto;
+    padding: 200px;
+}
+.voltar{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 15px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.titulo{
+    font-size: 30px;
+    text-decoration: none;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    
+}
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.test{
+    background-color: white;
+    padding: 100px;
+}
+p{
+    display: flex;
+    justify-content: center;
 }
