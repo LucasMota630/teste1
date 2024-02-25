@@ -33,6 +33,7 @@ body{
 .test{
     background-color: white;
     padding: 100px;
+    
 }
 p{
     display: flex;
