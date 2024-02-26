@@ -39,3 +39,13 @@ p{
     display: flex;
     justify-content: center;
 }
+/* @media screen and (max-width:700px){
+    video{
+        background-image:none ;
+        display: block;
+    }
+}
+video{
+    display: flex;
+    justify-content: center;
+} */
